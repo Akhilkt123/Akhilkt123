@@ -1,0 +1,21 @@
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+.banner {
+    background-image: url('images/pexels-mohamed-almari-1485894.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    margin-bottom: 50px;
+}
+
+
+.banner-text h1 {
+    color:aqua; 
+    font-style: italic;
+    text-align: center;
+    font-size: 100px;
+    padding: 100px;
+    
+}
